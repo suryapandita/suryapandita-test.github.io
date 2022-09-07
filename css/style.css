@@ -1,0 +1,17 @@
+img{
+    margin-left: 50px;
+}
+ .navbar{
+    width: 20px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+ .navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+    display: flex;
+ }
